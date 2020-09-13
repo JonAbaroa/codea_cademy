@@ -1,2 +1,2 @@
-# codea_cademy
+# code_academy
 Code academy
